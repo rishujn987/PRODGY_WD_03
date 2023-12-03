@@ -10,7 +10,7 @@
 .wrapper {
   height: 100vh;
   width: 100vw;
-  background-image: url(tic-tac-toe-1777936_1280.jpg );
+  background-image: url(images/tic-tac-toe-1777936_1280.jpg);
   background-size: cover;
   background-position: center;
   display: grid;
